@@ -1,0 +1,10 @@
+C:\Users\50370\source\repos\POOClass\POOClass\bin\Debug\POOClass.exe.config
+C:\Users\50370\source\repos\POOClass\POOClass\bin\Debug\POOClass.exe
+C:\Users\50370\source\repos\POOClass\POOClass\bin\Debug\POOClass.pdb
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.csproj.AssemblyReference.cache
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.Form1.resources
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.Properties.Resources.resources
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.csproj.GenerateResource.cache
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.csproj.CoreCompileInputs.cache
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.exe
+C:\Users\50370\source\repos\POOClass\POOClass\obj\Debug\POOClass.pdb
